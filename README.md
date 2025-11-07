@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Miguel López Varga  
+### 👋 Hi, I'm Miguel Lopez Varga  
 
 Physicist and experimentalist moving into the world of **Solutions Engineering** —  
 the intersection where **technology, business, and people** meet.  
