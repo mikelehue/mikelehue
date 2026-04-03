@@ -1,35 +1,60 @@
-### 👋 Hi, I'm Miguel Lopez Varga  
+# 👋 Hi, I'm Miguel
 
-Physicist and experimentalist moving into the world of **Solutions Engineering** —  
-the intersection where **technology, business, and people** meet.  
-
-For the past years I’ve worked in **quantum optics**, building and automating experimental systems,  
-writing **Python** code to control hardware, analyze data, and connect devices through **APIs**.  
-Now I’m focusing on applying those same skills to **Cloud, AI, and SaaS environments**,  
-where solving technical problems also means understanding business needs and communicating clearly.  
+I'm transitioning into **Operations & Data Analytics**, focused on using data to understand business performance and support decision-making.
 
 ---
 
-### 💡 What I bring
-- Strong technical background and analytical mindset (PhD in Physics).  
-- Proficiency in **Python**, **data analysis**, and **API integration**.  
-- Experience bridging **hardware and software**, **engineers and stakeholders**.  
-- Curiosity and clarity when explaining complex ideas to non-technical audiences.  
+## 💡 What I do
+
+- Analyze business data using **SQL and Python**
+- Build and interpret **KPIs and performance metrics**
+- Translate data into **actionable operational insights**
 
 ---
 
-### 🌍 What I’m aiming for
-Roles such as **Solutions Engineer**, **Pre-Sales Engineer**, or **Technical Consultant** —  
-positions that combine **technical depth**, **customer interaction**, and **strategic thinking**.  
+## 📊 Featured project
+
+🔹 [Operations Analytics Project](https://github.com/mikelehue/operations-analytics-project)
+
+End-to-end analysis of an e-commerce dataset:
+- revenue evolution over time  
+- purchase funnel (event-based vs journey-based)  
+- revenue concentration by category  
+
+Focus on identifying **business patterns, risks, and opportunities**.
 
 ---
 
-### 🧰 Technologies & Tools
-Python • REST APIs • GitHub • Cloud fundamentals (AWS, GCP, Azure) • Data visualization  
-Experimental automation • Scientific computing • Hardware SDKs  
+## 🧠 Background
+
+Previously worked in a highly technical environment (quantum photonics), where I:
+- built and optimized complex systems  
+- automated processes using Python  
+- managed data-intensive workflows  
+
+Now applying those skills to **business and operations analytics**.
 
 ---
 
-### 📫 Let’s connect
-- **Email:** miguelvarga@gmail.com  
-- **LinkedIn:** [linkedin.com/in/miguel-lopez-varga](https://www.linkedin.com/in/miguel-lopez-varga/)  
+## 🎯 What I’m aiming for
+
+Roles in:
+- Operations Analytics  
+- Business Operations  
+- Data / Performance Analytics  
+
+---
+
+## 🧰 Tools & Skills
+
+- SQL  
+- Python (Pandas, Matplotlib)  
+- Data analysis & visualization  
+- KPI definition & interpretation  
+
+---
+
+## 📫 Let's connect
+
+- Email: miguelvarga@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/miguel-lopez-varga  
