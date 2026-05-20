@@ -1,60 +1,107 @@
 # 👋 Hi, I'm Miguel
 
-I'm transitioning into **Operations & Data Analytics**, focused on using data to understand business performance and support decision-making.
+I come from a deep-tech and scientific background, with experience leading and operating complex experimental systems in quantum photonics and R&D environments.
+
+I'm currently focused on technical operations, operational intelligence, automation, and analytics-driven decision making.
+
+My goal is to combine:
+- systems thinking
+- technical operations
+- automation workflows
+- data & monitoring tools
+- AI-assisted productivity
+
+to help organizations understand, operate, and improve complex technical systems.
 
 ---
 
-## 💡 What I do
+# ⚙️ What I work on
 
-- Analyze business data using **SQL and Python**
-- Build and interpret **KPIs and performance metrics**
-- Translate data into **actionable operational insights**
-
----
-
-## 📊 Featured project
-
-🔹 [Operations Analytics Project](https://github.com/mikelehue/operations-analytics-project)
-
-End-to-end analysis of an e-commerce dataset:
-- revenue evolution over time  
-- purchase funnel (event-based vs journey-based)  
-- revenue concentration by category  
-
-Focus on identifying **business patterns, risks, and opportunities**.
+- Technical operations & operational workflows
+- Automation pipelines using Python
+- KPI monitoring & operational analytics
+- Data transformation and ETL systems
+- AI-assisted operational tools
+- Industrial / monitoring-oriented analytics
 
 ---
 
-## 🧠 Background
+# 🧠 Background
 
-Previously worked in a highly technical environment (quantum photonics), where I:
-- built and optimized complex systems  
-- automated processes using Python  
-- managed data-intensive workflows  
+Previously worked in highly technical environments involving:
 
-Now applying those skills to **business and operations analytics**.
+- quantum photonics
+- laboratory operations
+- experimental systems
+- automation & instrumentation
+- data-intensive workflows
+- multidisciplinary R&D projects
 
----
-
-## 🎯 What I’m aiming for
-
-Roles in:
-- Operations Analytics  
-- Business Operations  
-- Data / Performance Analytics  
-
----
-
-## 🧰 Tools & Skills
-
-- SQL  
-- Python (Pandas, Matplotlib)  
-- Data analysis & visualization  
-- KPI definition & interpretation  
+This experience developed a strong foundation in:
+- analytical thinking
+- systems engineering mindset
+- problem solving under uncertainty
+- technical coordination
 
 ---
 
-## 📫 Let's connect
+# 🚀 Current Direction
 
-- Email: miguelvarga@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/miguel-lopez-varga  
+I'm currently building projects focused on:
+
+- operational monitoring
+- industrial / IoT analytics
+- ETL automation
+- anomaly detection
+- AI-assisted operational summaries
+- technical dashboarding
+
+using tools such as:
+- Python
+- SQL
+- Pandas
+- Power BI
+- Streamlit
+
+---
+
+# 📂 Featured Projects
+
+### 📊 Operations Analytics Project
+End-to-end operational analysis of an e-commerce dataset using SQL, Python, and Power BI.
+
+Focus areas:
+- KPI analysis
+- funnel behavior
+- revenue dynamics
+- business monitoring
+
+---
+
+### ⚙️ Technical Operations Monitoring *(in progress)*
+Operational monitoring pipeline for industrial IoT systems.
+
+Focus areas:
+- ETL automation
+- anomaly detection
+- KPI alerts
+- AI-assisted operational summaries
+- monitoring dashboards
+
+---
+
+# 🎯 Roles of Interest
+
+- Technical Operations
+- R&D Operations
+- Operations Analytics
+- Technical Program / Systems Coordination
+- Industrial Analytics
+- Operational Intelligence
+
+---
+
+# 🤝 Let's connect
+
+- LinkedIn: https://www.linkedin.com/in/miguel-lopez-varga
+- Email: miguelvarga@gmail.com
