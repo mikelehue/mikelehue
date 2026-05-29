@@ -1,107 +1,148 @@
-# 👋 Hi, I'm Miguel
+# Hi, I'm Miguel
 
-I come from a deep-tech and scientific background, with experience leading and operating complex experimental systems in quantum photonics and R&D environments.
+I am a physicist and Technical Operations professional working at the intersection of deep-tech programs, experimental systems, operational execution, and technology development.
 
-I'm currently focused on technical operations, operational intelligence, automation, and analytics-driven decision making.
+Over the last decade I have worked across quantum photonics, optical communications, laboratory infrastructure, industry collaborations, and complex R&D environments.
 
-My goal is to combine:
-- systems thinking
-- technical operations
-- automation workflows
-- data & monitoring tools
-- AI-assisted productivity
-
-to help organizations understand, operate, and improve complex technical systems.
-
----
-
-# ⚙️ What I work on
-
-- Technical operations & operational workflows
-- Automation pipelines using Python
-- KPI monitoring & operational analytics
-- Data transformation and ETL systems
-- AI-assisted operational tools
-- Industrial / monitoring-oriented analytics
-
----
-
-# 🧠 Background
-
-Previously worked in highly technical environments involving:
-
-- quantum photonics
-- laboratory operations
-- experimental systems
-- automation & instrumentation
-- data-intensive workflows
-- multidisciplinary R&D projects
-
-This experience developed a strong foundation in:
-- analytical thinking
-- systems engineering mindset
-- problem solving under uncertainty
-- technical coordination
-
----
-
-# 🚀 Current Direction
-
-I'm currently building projects focused on:
-
-- operational monitoring
-- industrial / IoT analytics
-- ETL automation
-- anomaly detection
-- AI-assisted operational summaries
-- technical dashboarding
-
-using tools such as:
-- Python
-- SQL
-- Pandas
-- Power BI
-- Streamlit
-
----
-
-# 📂 Featured Projects
-
-### 📊 Operations Analytics Project
-End-to-end operational analysis of an e-commerce dataset using SQL, Python, and Power BI.
-
-Focus areas:
-- KPI analysis
-- funnel behavior
-- revenue dynamics
-- business monitoring
-
----
-
-### ⚙️ Technical Operations Monitoring *(in progress)*
-Operational monitoring pipeline for industrial IoT systems.
-
-Focus areas:
-- ETL automation
-- anomaly detection
-- KPI alerts
-- AI-assisted operational summaries
-- monitoring dashboards
-
----
-
-# 🎯 Roles of Interest
+My work sits between:
 
 - Technical Operations
+- Systems Integration
 - R&D Operations
-- Operations Analytics
-- Technical Program / Systems Coordination
-- Industrial Analytics
-- Operational Intelligence
+- Program Execution
+- Automation & Operational Tooling
+- Data-Informed Decision Making
+
+I enjoy turning complex technical challenges into structured execution plans, operational workflows, and scalable systems.
 
 ---
 
-# 🤝 Let's connect
+## Current Focus
 
-- LinkedIn: https://www.linkedin.com/in/miguel-lopez-varga
-- Email: miguelvarga@gmail.com
+I am currently interested in:
+
+- Technical Operations
+- Engineering Operations
+- R&D Operations
+- Systems Integration
+- Technical Program Management
+- Industrial Innovation
+- Automation and Operational Intelligence
+
+My goal is not simply to analyze data.
+
+My goal is to help organizations operate complex technical systems more effectively.
+
+---
+
+## Background
+
+My career started in experimental optics and photonics, where I designed and built optical systems, instrumentation platforms, automation workflows, and quantum technology experiments.
+
+Over time my responsibilities expanded beyond research itself and increasingly involved:
+
+- laboratory operations
+- procurement and vendor management
+- infrastructure planning
+- stakeholder coordination
+- grant and consortium activities
+- technical roadmap execution
+- industry collaborations
+- cross-functional project coordination
+
+Today I spend much of my time connecting technical teams, operational constraints, infrastructure needs, and strategic objectives.
+
+---
+
+## Selected Areas of Experience
+
+### Technical Operations
+
+- Laboratory Operations
+- Technical Coordination
+- Operational Planning
+- Infrastructure Development
+- Procurement & Vendor Management
+
+### Systems & Engineering
+
+- Systems Integration
+- Experimental Platforms
+- Optical Communications
+- Photonics
+- Automation Workflows
+
+### Data & Automation
+
+- Python
+- SQL
+- Power BI
+- ETL Pipelines
+- KPI Monitoring
+- Operational Reporting
+
+### Deep-Tech Ecosystems
+
+- Quantum Technologies
+- Photonics
+- Space Applications
+- Industrial Collaborations
+- Technology Transfer
+
+---
+
+## Featured Projects
+
+### Technical Operations Monitoring
+
+Industrial IoT monitoring pipeline designed to simulate operational workflows.
+
+Key components:
+
+- ETL automation
+- Data quality validation
+- KPI generation
+- Operational alerting
+- Executive reporting
+
+Technologies:
+
+- Python
+- Pandas
+- CSV-based ETL
+- Git / GitHub
+
+---
+
+### Operations Analytics Project
+
+Business-oriented operational analysis of an e-commerce dataset.
+
+Focus:
+
+- Revenue monitoring
+- KPI analysis
+- Funnel performance
+- Power BI dashboards
+- Operational insights
+
+---
+
+## What I Bring
+
+- Systems thinking
+- Technical leadership
+- Cross-functional coordination
+- Operational execution
+- Problem solving under uncertainty
+- Communication across technical and non-technical stakeholders
+
+---
+
+## Connect
+
+LinkedIn:
+www.linkedin.com/in/miguel-lopez-varga
+
+Email:
+miguelvarga@gmail.com
