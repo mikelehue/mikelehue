@@ -29,8 +29,6 @@ I am currently interested in:
 - Industrial Innovation
 - Automation and Operational Intelligence
 
-My goal is not simply to analyze data.
-
 My goal is to help organizations operate complex technical systems more effectively.
 
 ---
